@@ -24,6 +24,7 @@ ul {
 }
 li:hover {
   cursor: pointer;
+  color: white;
 }
 .details {
   display: flex;
